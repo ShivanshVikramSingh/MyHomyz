@@ -3,7 +3,7 @@
  color: white;
 }
 .h-container{
-    justify-content: space-around;
+    justify-content: space-between;
     color: var(--secondary);
     padding-top: 1rem;
     padding-bottom: 1rem;
