@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MyHomyz/static/css/main.39c8b86f.css",
+    "main.js": "/MyHomyz/static/js/main.f0c07be4.js",
+    "index.html": "/MyHomyz/index.html",
+    "main.39c8b86f.css.map": "/MyHomyz/static/css/main.39c8b86f.css.map",
+    "main.f0c07be4.js.map": "/MyHomyz/static/js/main.f0c07be4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39c8b86f.css",
+    "static/js/main.f0c07be4.js"
+  ]
+}
